@@ -1,0 +1,7 @@
+keras==3.4.1
+matplotlib==3.9.1
+pandas==2.2.2
+scikit-learn==1.5.1
+ta==0.11.0
+tensorflow==2.17.0
+yfinance==0.2.40
